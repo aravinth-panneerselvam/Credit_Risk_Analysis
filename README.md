@@ -42,13 +42,15 @@ Tech Stack: Python | Numpy | Matplotlib Seaborn | Pandas | Statsmodels | Scikit 
 - Performance evaluated using ROC-AUC for classification strength
 <img width="586" height="393" alt="image" src="https://github.com/user-attachments/assets/5bc73a59-db2f-44dc-b6ce-54015d6ffea5" />
 
+- Confusion Matrix
+<img width="442" height="300" alt="image" src="https://github.com/user-attachments/assets/3789ef4a-80bf-4121-8e27-2b02f493fa9f" />
+
 # Key Learnings
 - Applied statistical modeling to real-world financial risk
 - Understood business-driven threshold optimization
 - Practiced multicollinearity diagnostics (VIF)
 - Built an interpretable and production-relevant ML pipeline
 
-Confusion Matrix
-<img width="442" height="300" alt="image" src="https://github.com/user-attachments/assets/3789ef4a-80bf-4121-8e27-2b02f493fa9f" />
+
 
 
