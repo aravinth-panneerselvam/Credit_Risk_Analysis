@@ -1,0 +1,14 @@
+ipykernel
+scikit-learn
+pandas
+numpy
+jupyter
+notebook
+matplotlib
+seaborn
+mlflow
+tensorflow
+keras
+ydata-profiling
+mlflow
+statsmodels
